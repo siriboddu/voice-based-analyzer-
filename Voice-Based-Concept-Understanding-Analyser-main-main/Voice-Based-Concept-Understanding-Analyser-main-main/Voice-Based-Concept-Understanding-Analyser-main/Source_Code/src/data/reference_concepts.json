@@ -1,0 +1,7 @@
+{
+  "Data Structures": "A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. Examples include arrays, linked lists, stacks, queues, trees, and graphs.",
+  "Object Oriented Programming": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. It rests on pillars like inheritance, polymorphism, encapsulation, and abstraction.",
+  "Database Management Systems": "A Database Management System (DBMS) is software used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.",
+  "Operating Systems": "An Operating System (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs. Examples include Microsoft Windows, macOS, Linux, and Android.",
+  "Computer Networks": "A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other."
+}
